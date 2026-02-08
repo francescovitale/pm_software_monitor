@@ -1,0 +1,8 @@
+2026-02-02 11:17:38,799 - test_path_ntc_success_grant_sn - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,811 - test_path_ntc_success_grant_sn - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,822 - test_path_ntc_success_grant_sn - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,832 - test_path_ntc_success_grant_sn - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:38,853 - test_path_ntc_success_grant_sn - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:38,853 - test_path_ntc_success_grant_sn - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,863 - test_path_ntc_success_grant_sn - INFO - som_grantSN_evc_1
+2026-02-02 11:17:38,874 - test_path_ntc_success_grant_sn - INFO - som_chmod_evc_1

@@ -1,0 +1,8 @@
+2026-02-02 11:17:38,874 - test_path_l1_success_trn_already_valid - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,886 - test_path_l1_success_trn_already_valid - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,896 - test_path_l1_success_trn_already_valid - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,907 - test_path_l1_success_trn_already_valid - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:38,917 - test_path_l1_success_trn_already_valid - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:38,917 - test_path_l1_success_trn_already_valid - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,927 - test_path_l1_success_trn_already_valid - INFO - som_grantSR_evc_1
+2026-02-02 11:17:38,938 - test_path_l1_success_trn_already_valid - INFO - som_chmod_evc_1

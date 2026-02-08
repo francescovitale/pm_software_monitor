@@ -1,0 +1,5 @@
+2026-02-02 11:17:38,089 - test_path_l1_select_shunting_immediately - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,106 - test_path_l1_select_shunting_immediately - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,116 - test_path_l1_select_shunting_immediately - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,127 - test_path_l1_select_shunting_immediately - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:38,127 - test_path_l1_select_shunting_immediately - INFO - som_chmod_evc_1

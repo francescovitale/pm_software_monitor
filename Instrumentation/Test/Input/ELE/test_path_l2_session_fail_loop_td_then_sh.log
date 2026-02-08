@@ -1,0 +1,11 @@
+2026-02-02 11:17:39,556 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,568 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,599 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_openconn_rtm_1
+2026-02-02 11:17:39,599 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_retryconn_dmi_1
+2026-02-02 11:17:39,599 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_retryconn_dmi_1
+2026-02-02 11:17:39,599 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,610 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:39,630 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:39,630 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,640 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:39,640 - test_path_l2_session_fail_loop_td_then_sh - INFO - som_chmod_evc_1

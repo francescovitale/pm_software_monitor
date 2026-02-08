@@ -1,0 +1,2 @@
+eps: 1.5
+min_samples: 4

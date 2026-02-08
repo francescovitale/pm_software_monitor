@@ -1,0 +1,6 @@
+2026-02-02 11:17:39,068 - test_path_l2_radio_fail_fallback_nl - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,079 - test_path_l2_radio_fail_fallback_nl - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,121 - test_path_l2_radio_fail_fallback_nl - INFO - som_giveup_evc_1
+2026-02-02 11:17:39,121 - test_path_l2_radio_fail_fallback_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,132 - test_path_l2_radio_fail_fallback_nl - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:39,132 - test_path_l2_radio_fail_fallback_nl - INFO - som_chmod_evc_1

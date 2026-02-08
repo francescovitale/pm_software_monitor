@@ -1,0 +1,5 @@
+2026-02-02 11:17:42,205 - test_path_l1_sm_not_available - INFO - som_enterid_dmi_1
+2026-02-02 11:17:42,224 - test_path_l1_sm_not_available - INFO - som_storeid_evc_1
+2026-02-02 11:17:42,234 - test_path_l1_sm_not_available - INFO - som_driversel_dmi_1
+2026-02-02 11:17:42,245 - test_path_l1_sm_not_available - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:42,245 - test_path_l1_sm_not_available - INFO - som_chmod_evc_1

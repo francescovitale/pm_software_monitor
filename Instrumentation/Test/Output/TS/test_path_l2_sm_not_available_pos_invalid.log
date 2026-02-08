@@ -1,0 +1,6 @@
+2026-02-02 11:17:42,153 - test_path_l2_sm_not_available_pos_invalid - INFO - som_enterid_dmi_1
+2026-02-02 11:17:42,165 - test_path_l2_sm_not_available_pos_invalid - INFO - som_storeid_evc_1
+2026-02-02 11:17:42,195 - test_path_l2_sm_not_available_pos_invalid - INFO - som_openconn_rtm_1
+2026-02-02 11:17:42,195 - test_path_l2_sm_not_available_pos_invalid - INFO - som_driversel_dmi_1
+2026-02-02 11:17:42,205 - test_path_l2_sm_not_available_pos_invalid - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:42,205 - test_path_l2_sm_not_available_pos_invalid - INFO - som_chmod_evc_1

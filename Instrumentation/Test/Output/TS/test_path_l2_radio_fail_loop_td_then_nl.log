@@ -1,0 +1,9 @@
+2026-02-02 11:17:39,226 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,238 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,279 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_giveup_evc_1
+2026-02-02 11:17:39,279 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,290 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:39,311 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:39,311 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,322 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:39,322 - test_path_l2_radio_fail_loop_td_then_nl - INFO - som_chmod_evc_1

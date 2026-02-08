@@ -1,0 +1,16 @@
+Role: You are a software developer tasked with instrumenting source code.
+
+Context: You are instrumenting the source code of an ERTMS/ETCS-compliant prototype of the Start-of-Mission procedure. The prototype simulates the different control flows of the procedure documented in the standard with varying degrees of randomness. The prototype needs to be instrumented. You have access to the BPMN diagram that guided the development process. You have access to the test suite that will be executed with pytest.
+
+Action: Instrument the code through these guidelines
+
+- Do not modify the code logic.
+- Instrument the code following the control flow of the BPMN diagram and its activities.
+- Before instrumenting, extract and list all activity names from the BPMN file
+- Only log the BPMN activities without adding any additional text. 
+- Only use activity labels that appear in this exact list - do not invent or infer any labels.
+- Make the instrumented code callable from the test suite. Only ensure that it is callable, do not perform any further fixes.
+- Do not provide any further output than the one specified below.
+- Save the log to a .txt file.
+
+Output: The instrumented software.

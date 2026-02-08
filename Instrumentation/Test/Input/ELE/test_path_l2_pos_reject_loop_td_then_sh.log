@@ -1,0 +1,9 @@
+2026-02-02 11:17:39,949 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,961 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,991 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_openconn_rtm_1
+2026-02-02 11:17:39,991 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:40,002 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:40,022 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:40,022 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:40,033 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:40,033 - test_path_l2_pos_reject_loop_td_then_sh - INFO - som_chmod_evc_1

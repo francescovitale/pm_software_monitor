@@ -1,0 +1,10 @@
+2026-02-02 11:17:41,222 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_enterid_dmi_1
+2026-02-02 11:17:41,234 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_storeid_evc_1
+2026-02-02 11:17:41,265 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_openconn_rtm_1
+2026-02-02 11:17:41,265 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:41,265 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:41,276 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:41,300 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:41,402 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:41,412 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:41,412 - test_path_l2_ack_fail_max_retries_fallback_sh - INFO - som_chmod_evc_1

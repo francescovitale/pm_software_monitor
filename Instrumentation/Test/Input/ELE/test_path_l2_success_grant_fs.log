@@ -1,0 +1,14 @@
+2026-02-02 11:17:38,217 - test_path_l2_success_grant_fs - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,228 - test_path_l2_success_grant_fs - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,258 - test_path_l2_success_grant_fs - INFO - som_openconn_rtm_1
+2026-02-02 11:17:38,258 - test_path_l2_success_grant_fs - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:38,258 - test_path_l2_success_grant_fs - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,269 - test_path_l2_success_grant_fs - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:38,290 - test_path_l2_success_grant_fs - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:38,290 - test_path_l2_success_grant_fs - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_sendMAreq_rtm_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_checktrainroute_rbc_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_checkval_rbc_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_grantFS_rbc_1
+2026-02-02 11:17:38,300 - test_path_l2_success_grant_fs - INFO - som_chmod_evc_1

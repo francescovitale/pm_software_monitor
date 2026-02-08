@@ -1,0 +1,6 @@
+2026-02-02 11:17:38,161 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,173 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,205 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_openconn_rtm_1
+2026-02-02 11:17:38,205 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:38,205 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,216 - test_path_l2_select_supervised_manoeuvre_immediately - INFO - som_chmod_evc_1

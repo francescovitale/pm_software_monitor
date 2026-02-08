@@ -1,0 +1,14 @@
+2026-02-02 11:17:42,458 - test_path_l2_all_data_prefilled_except_pos - INFO - som_enterid_dmi_1
+2026-02-02 11:17:42,470 - test_path_l2_all_data_prefilled_except_pos - INFO - som_storeid_evc_1
+2026-02-02 11:17:42,491 - test_path_l2_all_data_prefilled_except_pos - INFO - som_openconn_rtm_1
+2026-02-02 11:17:42,491 - test_path_l2_all_data_prefilled_except_pos - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:42,491 - test_path_l2_all_data_prefilled_except_pos - INFO - som_driversel_dmi_1
+2026-02-02 11:17:42,501 - test_path_l2_all_data_prefilled_except_pos - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:42,512 - test_path_l2_all_data_prefilled_except_pos - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:42,512 - test_path_l2_all_data_prefilled_except_pos - INFO - som_selstart_dmi_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_selstart_dmi_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_sendMAreq_rtm_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_checktrainroute_rbc_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_checkval_rbc_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_grantFS_rbc_1
+2026-02-02 11:17:42,522 - test_path_l2_all_data_prefilled_except_pos - INFO - som_chmod_evc_1

@@ -1,0 +1,8 @@
+2026-02-02 11:17:39,449 - test_path_l2_session_fail_fallback_sh - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,461 - test_path_l2_session_fail_fallback_sh - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,492 - test_path_l2_session_fail_fallback_sh - INFO - som_openconn_rtm_1
+2026-02-02 11:17:39,492 - test_path_l2_session_fail_fallback_sh - INFO - som_retryconn_dmi_1
+2026-02-02 11:17:39,492 - test_path_l2_session_fail_fallback_sh - INFO - som_retryconn_dmi_1
+2026-02-02 11:17:39,492 - test_path_l2_session_fail_fallback_sh - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,503 - test_path_l2_session_fail_fallback_sh - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:39,503 - test_path_l2_session_fail_fallback_sh - INFO - som_chmod_evc_1

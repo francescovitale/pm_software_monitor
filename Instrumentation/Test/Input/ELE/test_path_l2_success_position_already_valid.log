@@ -1,0 +1,13 @@
+2026-02-02 11:17:38,490 - test_path_l2_success_position_already_valid - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,501 - test_path_l2_success_position_already_valid - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,532 - test_path_l2_success_position_already_valid - INFO - som_openconn_rtm_1
+2026-02-02 11:17:38,532 - test_path_l2_success_position_already_valid - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,542 - test_path_l2_success_position_already_valid - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:38,563 - test_path_l2_success_position_already_valid - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:38,563 - test_path_l2_success_position_already_valid - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_sendMAreq_rtm_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_checktrainroute_rbc_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_checkval_rbc_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_grantFS_rbc_1
+2026-02-02 11:17:38,574 - test_path_l2_success_position_already_valid - INFO - som_chmod_evc_1

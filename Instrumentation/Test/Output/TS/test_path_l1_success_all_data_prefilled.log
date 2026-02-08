@@ -1,0 +1,8 @@
+2026-02-02 11:17:41,572 - test_path_l1_success_all_data_prefilled - INFO - som_enterid_dmi_1
+2026-02-02 11:17:41,583 - test_path_l1_success_all_data_prefilled - INFO - som_storeid_evc_1
+2026-02-02 11:17:41,594 - test_path_l1_success_all_data_prefilled - INFO - som_driversel_dmi_1
+2026-02-02 11:17:41,604 - test_path_l1_success_all_data_prefilled - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:41,614 - test_path_l1_success_all_data_prefilled - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:41,614 - test_path_l1_success_all_data_prefilled - INFO - som_selstart_dmi_1
+2026-02-02 11:17:41,625 - test_path_l1_success_all_data_prefilled - INFO - som_grantSR_evc_1
+2026-02-02 11:17:41,635 - test_path_l1_success_all_data_prefilled - INFO - som_chmod_evc_1

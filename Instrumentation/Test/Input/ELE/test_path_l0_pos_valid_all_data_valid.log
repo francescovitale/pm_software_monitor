@@ -1,0 +1,8 @@
+2026-02-02 11:17:42,394 - test_path_l0_pos_valid_all_data_valid - INFO - som_enterid_dmi_1
+2026-02-02 11:17:42,405 - test_path_l0_pos_valid_all_data_valid - INFO - som_storeid_evc_1
+2026-02-02 11:17:42,416 - test_path_l0_pos_valid_all_data_valid - INFO - som_driversel_dmi_1
+2026-02-02 11:17:42,427 - test_path_l0_pos_valid_all_data_valid - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:42,437 - test_path_l0_pos_valid_all_data_valid - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:42,437 - test_path_l0_pos_valid_all_data_valid - INFO - som_selstart_dmi_1
+2026-02-02 11:17:42,448 - test_path_l0_pos_valid_all_data_valid - INFO - som_grantUN_evc_1
+2026-02-02 11:17:42,458 - test_path_l0_pos_valid_all_data_valid - INFO - som_chmod_evc_1

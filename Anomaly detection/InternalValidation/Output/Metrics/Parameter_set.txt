@@ -1,0 +1,5 @@
+n_components: 2
+n_hidden_neurons: 32
+optimizer: rmsprop
+batch_size: 32
+epochs: 500

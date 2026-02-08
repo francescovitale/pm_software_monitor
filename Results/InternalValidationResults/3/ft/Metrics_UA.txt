@@ -1,0 +1,41 @@
+Accuracy: 0.3783783783783784
+Precision: 0.5909090909090909
+Recall: 0.26
+F1: 0.3611111111111111
+AUC: 0.4650000000000001
+TN: 15
+TP: 13
+FN: 37
+FP: 9
+
+ROC Curve:
+FPR: 0.0000, TPR: 0.0000, Threshold: -inf
+FPR: 0.0417, TPR: 0.0000, Threshold: 0.6087
+FPR: 0.1250, TPR: 0.0000, Threshold: 0.7037
+FPR: 0.1667, TPR: 0.0200, Threshold: 0.7368
+FPR: 0.1667, TPR: 0.0400, Threshold: 0.7500
+FPR: 0.2500, TPR: 0.0400, Threshold: 0.7619
+FPR: 0.2500, TPR: 0.2000, Threshold: 0.8182
+FPR: 0.2500, TPR: 0.2400, Threshold: 0.8235
+FPR: 0.3750, TPR: 0.2600, Threshold: 0.8261
+FPR: 0.5417, TPR: 0.3200, Threshold: 0.8333
+FPR: 0.5417, TPR: 0.3800, Threshold: 0.8518
+FPR: 0.5417, TPR: 0.4200, Threshold: 0.8636
+FPR: 0.5417, TPR: 0.4400, Threshold: 0.8636
+FPR: 0.5417, TPR: 0.4800, Threshold: 0.8696
+FPR: 0.5417, TPR: 0.5000, Threshold: 0.8696
+FPR: 0.5417, TPR: 0.5400, Threshold: 0.8750
+FPR: 0.6250, TPR: 0.5600, Threshold: 0.8750
+FPR: 0.6250, TPR: 0.6000, Threshold: 0.8800
+FPR: 0.6250, TPR: 0.6200, Threshold: 0.8823
+FPR: 0.6667, TPR: 0.6200, Threshold: 0.8889
+FPR: 0.6667, TPR: 0.6600, Threshold: 0.8947
+FPR: 0.6667, TPR: 0.7000, Threshold: 0.9048
+FPR: 0.6667, TPR: 0.7600, Threshold: 0.9130
+FPR: 0.6667, TPR: 0.8200, Threshold: 0.9259
+FPR: 0.7083, TPR: 0.8200, Threshold: 0.9333
+FPR: 0.7083, TPR: 0.8600, Threshold: 0.9500
+FPR: 0.7917, TPR: 0.8600, Threshold: 0.9500
+FPR: 0.7917, TPR: 0.9800, Threshold: 1.0000
+FPR: 1.0000, TPR: 0.9800, Threshold: 1.0000
+FPR: 1.0000, TPR: 1.0000, Threshold: 1.0000

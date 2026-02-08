@@ -1,0 +1,5 @@
+n_components: 2
+n_hidden_neurons: 32
+optimizer: adam
+batch_size: 64
+epochs: 100

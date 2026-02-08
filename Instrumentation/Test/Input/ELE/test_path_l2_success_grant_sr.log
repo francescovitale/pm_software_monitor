@@ -1,0 +1,15 @@
+2026-02-02 11:17:38,395 - test_path_l2_success_grant_sr - INFO - som_enterid_dmi_1
+2026-02-02 11:17:38,406 - test_path_l2_success_grant_sr - INFO - som_storeid_evc_1
+2026-02-02 11:17:38,437 - test_path_l2_success_grant_sr - INFO - som_openconn_rtm_1
+2026-02-02 11:17:38,437 - test_path_l2_success_grant_sr - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:38,437 - test_path_l2_success_grant_sr - INFO - som_driversel_dmi_1
+2026-02-02 11:17:38,447 - test_path_l2_success_grant_sr - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:38,468 - test_path_l2_success_grant_sr - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:38,468 - test_path_l2_success_grant_sr - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_selstart_dmi_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_sendMAreq_rtm_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_checktrainroute_rbc_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_checkval_rbc_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_grantSR_rbc_1
+2026-02-02 11:17:38,479 - test_path_l2_success_grant_sr - INFO - som_grantSR_evc_1
+2026-02-02 11:17:38,489 - test_path_l2_success_grant_sr - INFO - som_chmod_evc_1

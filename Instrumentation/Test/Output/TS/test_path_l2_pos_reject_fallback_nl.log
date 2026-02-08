@@ -1,0 +1,6 @@
+2026-02-02 11:17:39,895 - test_path_l2_pos_reject_fallback_nl - INFO - som_enterid_dmi_1
+2026-02-02 11:17:39,908 - test_path_l2_pos_reject_fallback_nl - INFO - som_storeid_evc_1
+2026-02-02 11:17:39,938 - test_path_l2_pos_reject_fallback_nl - INFO - som_openconn_rtm_1
+2026-02-02 11:17:39,938 - test_path_l2_pos_reject_fallback_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:39,948 - test_path_l2_pos_reject_fallback_nl - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:39,948 - test_path_l2_pos_reject_fallback_nl - INFO - som_chmod_evc_1

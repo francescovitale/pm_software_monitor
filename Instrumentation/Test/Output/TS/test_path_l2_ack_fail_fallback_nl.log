@@ -1,0 +1,10 @@
+2026-02-02 11:17:40,390 - test_path_l2_ack_fail_fallback_nl - INFO - som_enterid_dmi_1
+2026-02-02 11:17:40,403 - test_path_l2_ack_fail_fallback_nl - INFO - som_storeid_evc_1
+2026-02-02 11:17:40,434 - test_path_l2_ack_fail_fallback_nl - INFO - som_openconn_rtm_1
+2026-02-02 11:17:40,434 - test_path_l2_ack_fail_fallback_nl - INFO - som_checkpos_rbc_1
+2026-02-02 11:17:40,434 - test_path_l2_ack_fail_fallback_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:40,444 - test_path_l2_ack_fail_fallback_nl - INFO - som_inserttraindata_dmi_1
+2026-02-02 11:17:40,465 - test_path_l2_ack_fail_fallback_nl - INFO - som_checkrbcsess_rtm_1
+2026-02-02 11:17:40,568 - test_path_l2_ack_fail_fallback_nl - INFO - som_driversel_dmi_1
+2026-02-02 11:17:40,578 - test_path_l2_ack_fail_fallback_nl - INFO - som_NLSHproc_evc_1
+2026-02-02 11:17:40,578 - test_path_l2_ack_fail_fallback_nl - INFO - som_chmod_evc_1

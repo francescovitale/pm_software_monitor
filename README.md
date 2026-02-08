@@ -39,8 +39,13 @@ This part of the project contains the logic to extract diagnoses from the XES ev
 
 The diagnoses can be used for internal validation of the logs of a single LLM (InternalValidation) and the inter-LLM validation (InterLLMValidation). The former is used to evaluate the control-flow anomaly detection performance of an individual LLM, whereas the latter is used to check how different instrumentations can impact the control-flow anomaly detection performance.
 
+## Results
 
+This part of the project collects the results from Instrumentation and Anomaly detection. In particular:
 
-
+- InstrumentationResults collects the instrumented versions of the SoM prototype obtained by the four different LLMs we used in our experiments.
+- TestResults collects the event logs resulting from the execution of the test suites on the instrumented version of the SoM prototypes.
+- InternalValidationResults collects the control-flow anomaly detection performance results of one of the LLMs.
+- InterLLMValidationResults collects the control-flow anomaly detection performance results obtained by classifying the traces of the less-performing LLMs using the monitor learned from the best-perfroming LLM.
 
 

@@ -12,13 +12,15 @@ This project has been executed on a Windows 11 machine with Pytest 8.4.2 and Pyt
 Please note that the list above is not comprehensive and there could be other requirements for running the project.
 
 # Project structure
-'''
+
+```
 pm_software_monitor/
 ├── Anomaly detection/  # Fault injection, diagnoses generation, and control-flow anomaly detection code
 ├── Instrumentation/    # LLM-based source-code instrumentation code and test suite application to the instrumented code
 ├── Results/            # The results of LLM-based source-code instrumentation, test suite application, and control-flow anomaly detection
 ├── SoM code and test suite/  # The source code of the SoM prototype and the related test suite
-'''
+```
+
 # Method description
 
 
